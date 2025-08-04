@@ -12,7 +12,7 @@ This project is a smart embedded system designed to detect **accidents** and **r
 - 📤 SMS alert system using SIM800L GSM module  
 - 📡 Wireless communication using ESP-NOW  
 - 🔴 LED indicators for visual feedback
-
+ 
 ---
  
 ## 🧰 Components Used
