@@ -45,19 +45,6 @@ The system is divided into two units:
 
 ---
 
-Accident-RashDriving-Alert-System/
-│
-├── Accident_Code_ESP32/ # ESP32 transmitter code (accident)
-├── Alert_Code_ESP8266/ # ESP8266 receiver code (alert sending)
-├── Rash_Driving_Code/ # IR sensor-based rash driving detection
-├── Circuits/ # Circuit diagrams (PDF/images)
-├── Report/ # Final project report
-├── Demo_Video/ # Project demo video (optional)
-├── README.md # This file
-├── LICENSE # Open-source license
-└── .gitignore # Files to ignore in Git
-
-
 ---
 
 ## 🔍 How It Works
