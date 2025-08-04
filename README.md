@@ -14,7 +14,7 @@ This project is a smart embedded system designed to detect **accidents** and **r
 - 🔴 LED indicators for visual feedback
 
 ---
-
+ 
 ## 🧰 Components Used
 
 | Component           | Description                                |
