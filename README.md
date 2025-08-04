@@ -88,5 +88,3 @@ Feel free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for
 
 
 
-## 📁 Folder Structure
-
